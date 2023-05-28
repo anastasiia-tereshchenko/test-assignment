@@ -6,6 +6,8 @@ In my first test, I checked the case that brings the joy of generating a usernam
 
 In my second test, I made sure to check if the system handles those "oops moments" gracefully. By intentionally entering an invalid nickname, I verified that an error message pops up, giving users a friendly heads-up :x:
 
+You can find them both in the `cypress/ui tests` folder.
+
 Now, let's be honest, my autotests aren't perfect—yet! But I'm bursting with enthusiasm to join the team and continue developing my skills 🚀
 
 Looking forward to bringing my passion and dedication to the project. Can't wait to contribute to the team's success! 🎉
