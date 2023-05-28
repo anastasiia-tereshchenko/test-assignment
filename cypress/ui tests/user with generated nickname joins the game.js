@@ -4,7 +4,7 @@ describe("Log in and join the table", function () {
         
         cy.visit("https://demo.bombay.live/operator/bombaydemo/bombay-live-lobby/fun")
         cy.wait(4000)
-        //I used a cypress-iframe plugin
+        //I used a cypress-iframe plugin to identify elements within the page
         cy.frameLoaded('#iframeId')
        
         //verifying blocking background that includes popup is presented
